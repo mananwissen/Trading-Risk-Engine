@@ -1,0 +1,5 @@
+Real-Time AI Trading Risk Engine — Complete Local POC
+
+Included: FastAPI service, deterministic risk checks, illustrative Isolation Forest anomaly flag, SQLite persistence, SQL examples, CSV/Excel batch processing, simulated fill/cancel, portfolio view, stress test, audit trail, pytest tests, sample CSVs, sample Excel workbook, optional Kafka configuration, README, architecture image, and comprehensive Word guide.
+
+Safety boundary: synthetic data and simulated execution only. No live broker or real-money trading.
